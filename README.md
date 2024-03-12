@@ -5,6 +5,7 @@
 ### openvpn.bin -l 443 -d
 ### openvpn.bin -l 3389 -d
 ### 启动proxy.bin
-### proxy.bin -l 你需要的端口（线路proxy端口） -d
+### proxy.bin -l （线路proxy端口 例如8080） -d
+### proxy.bin -l 8080 -d
 
 完成！
