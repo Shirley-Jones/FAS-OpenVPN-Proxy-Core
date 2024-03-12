@@ -8,4 +8,5 @@
 ### proxy.bin -l （线路proxy端口 例如8080） -d
 ### proxy.bin -l 8080 -d
 
+仅适用于CentOS7 X64  其他系统自测
 完成！
